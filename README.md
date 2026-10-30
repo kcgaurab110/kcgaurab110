@@ -75,11 +75,13 @@ I build modern, responsive, and high-performance web experiences. My primary foc
   <a href="mailto:kcgaurab110@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <a href="tel:+9779860382246">
+    <img src="https://img.shields.io/badge/Phone-%2B977%209860382246-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
+  </a>
   <a href="https://github.com/kcgaurab110">
     <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
-
 ---
 
 <p align="center">
