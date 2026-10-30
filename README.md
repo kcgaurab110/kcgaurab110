@@ -66,10 +66,12 @@ I build responsive, secure, and high-performance websites, with a focus on WordP
 ## 📊 GitHub Statistics
 
 
+
 <p align="center">
-  <img src="https://ghstats.dev/api/card?username=kcgaurab110&theme=tokyonight" alt="GitHub Statistics" height="180" />
-  <img src="https://ghstats.dev/api/languages?username=kcgaurab110&layout=compact&theme=tokyonight" alt="Most Used Languages" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kcgaurab110&theme=tokyonight" alt="GitHub Statistics" height="180" />
+  <img src="https://ghstats.dev/api/langs?username=kcgaurab110&theme=tokyonight&layout=compact" alt="Most Used Languages" height="180" />
 </p>
+
 
 
 <p align="center">
