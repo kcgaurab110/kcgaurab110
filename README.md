@@ -64,7 +64,7 @@ I build modern, responsive, and high-performance web experiences. My primary foc
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=kcgaurab110&theme=github-compact&hide_border=true" alt="GitHub Contribution Activity" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kcgaurab110&theme=github_dark" alt="GitHub Contribution Summary" width="95%" />
 </p>
 
 ---
